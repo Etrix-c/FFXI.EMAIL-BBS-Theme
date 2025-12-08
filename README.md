@@ -1,6 +1,8 @@
-This is an edited version of the default [My Little Forum style.min.css](https://github.com/My-Little-Forum/mylittleforum/blob/master/themes/default/style.min.css). Only changes made are the color scheme to match the FFXI.EMAIL site.
+This theme is compatible with version 20251129.1 (2.5.13).
 
-To install simply replace the style.min.css file in /themes/default/style.min.css. Make sure to make a backup of the style.min.css file befor replacing it.
+This is only an edited version of the default My Little Forum  [style.min.css](https://github.com/My-Little-Forum/mylittleforum/blob/master/themes/default/style.min.css) and not a full theme. Only changes made are the color scheme to match the FFXI.EMAIL site.
+
+There are two methods for installation. First, you can simply copy the default folder into the themes directory, rename it to your preference, and then place the file from [style.min.css](https://github.com/Etrix-c/FFXI.EMAIL-BBS-Theme/blob/main/style.min.css). Alternatively, you may visit [release page](https://github.com/Etrix-c/FFXI.EMAIL-BBS-Theme/releases/tag/1) and extract dark.zip into the themes directory, then navigate to the advanced settings to switch the theme to dark and save the changes.
 
 
 Index View
