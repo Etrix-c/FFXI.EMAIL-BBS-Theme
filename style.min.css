@@ -1,3 +1,7 @@
+/* 
+Dark Theme Made by Zanux for FFXI.EMAIL BBS
+*/
+
 *,::before,::after{box-sizing:border-box}
 body{color:#fff;background:#222;margin:0;padding:0;text-align:start;font-family:verdana,arial,sans-serif;font-size:1.125rem;display:flex;flex-direction:column;min-height:100vh}
 .small{font-size:.86em}
