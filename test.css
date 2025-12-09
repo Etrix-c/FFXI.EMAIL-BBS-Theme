@@ -1,0 +1,39 @@
+/*Work in progress variables*/
+
+:root {
+/*Body*/
+  --body-color: #000; /*Body text color*/
+  --body-bg-color: #f9f9f9; /*Body background color*/
+/*Links*/
+  --a-color: #00c; /*URL link color*/
+  --a-visited: #00c; /*URL visited color*/
+  --a-f-h: #00f; /*URL focus/hover color*/
+  --a-active: red; /*URL active*/
+/*Navbar & Logo*/
+  --top-bg-color: #d2ddea; /*Navbar background color*/
+  --logo-h1-a: navy; /*Logo color*/
+  --logo-h1-a-f-h: #00a; /*Logo focus/hover color*/
+  --usermenu-li-a: #00c; /*Usermenu color*/
+  --subnav-bg-color: #f9f9f9; /*Secondary Navbar background color*/
+/*Container body for threads and sidebar*/
+  --content-bg-color: #fff; /*Main background color*/
+  --author-name-color: #000; /*User name color*/
+/*Footer*/
+  --footer-bg-color: #f9f9f9; /* Footer background color*/
+  --pbmlf-color: gray; /*powered by my little forum color*/
+  --pbmlf-a-bg-color: gray; /*powered by my little forum color link color*/
+/*Latest-postings and recent-tags sidebar background color*/
+  --aside-div-bg-color: #f9f9f9; /*Tag lists background color*/
+  --aside-h3-bg-color: linear-gradient(to bottom,rgb(210, 222, 236) 0,rgb(237, 242, 245) 100%); /*Latest posts/tags namr background color*/
+  --h2-sidebar-bg-color: linear-gradient(to bottom,rgb(210, 222, 236) 0,rgb(237, 242, 245) 100%); /*Sidebar namr background color*/
+  --h2-sidebar-a-color: #000; /*Sidebar namr link background color*/
+  --lp-li-a-bg-color: #f0f0f0; /*Latest posts background color*/
+  --lp-li-a-v-r-color: #fff; /*Latest posts visited and read color*/
+  --lp-li-a-v-e-r-e:  #007; /*Latest posts entry-title, visited and read color*/
+  --lp-li-a-f-h-bg-color: #efefef; /*Latest posts focus and hover background color*/
+  --lp-li-a-entry-date-r-color: gray; /*Latest posts date and time/read color*/
+/*Posts*/
+  --quote-color: #6f6f6f; /*Post quote color*/
+  --post-edited-ip-ago-color: gray; /*Post edited, ip and ago color*/
+  
+  }
