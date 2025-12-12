@@ -73,8 +73,8 @@ h2.sidebar a:focus,h2.sidebar a:hover,h2.sidebar a:active{text-decoration:underl
 #latest-postings ul{max-width:100%;list-style:none;margin:0;padding:0}
 #latest-postings li{margin:0;padding:0;word-wrap:break-word;overflow:hidden}
 /*#latest-postings li:not(:last-child){border-bottom:1px dotted #bacbdf}*/
-#latest-postings li a{background-color:#303030;text-decoration:none;display:block;margin:0;padding:.25em .375em}
-latest-postings li a:visited,#latest-postings li a.read{background-color:#303030}
+#latest-postings li a{background-color:#303030;text-decoration:none;display:block;margin:0;padding:.25em .375em;border-left: 4px solid #375a7f;color: #00bc8c}
+#latest-postings li a:visited,#latest-postings li a.read{background-color:#303030;border-left: 4px solid #fff}
 #latest-postings li a:visited .entry-title,#latest-postings li a.read .entry-title{color:#fff}
 #latest-postings li a:focus,#latest-postings li a:hover{background:#303030;text-decoration:none}
 #latest-postings li a:focus .entry-title,#latest-postings li a:hover .entry-title{text-decoration:underline}
